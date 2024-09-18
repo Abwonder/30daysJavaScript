@@ -55,3 +55,12 @@ let person = {
 console.log(person); // output: 
 
 
+
+
+
+// learning to use parse
+let namePerson = "Abioye"; 
+let message = `Hello, ${namePerson}!`;
+console.log(message) // Output: Hello, Abioye! should be the output
+
+
